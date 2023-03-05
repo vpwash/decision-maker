@@ -2,9 +2,12 @@ body {
     text-align: center;
     font-family: 'Arial Narrow Bold', sans-serif;
     background-color: whitesmoke;
+    background-image: url("AI.jpg");
+    background-size: cover;
+    background-repeat: none;
 }
 h1 {
-    color: #212427;
+    color: white;
 }
 .main {
     background-color:lightgray;
